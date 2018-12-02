@@ -19,7 +19,6 @@ const fs = require('fs');
       {name: 'Andy', channelId: 'UCovb8rgpCANx6nwDwnW0Uqg'},
       {name: 'Code', channelId: 'UCvjgXvBlbQiydffZU7m1_aw'},
       {name: 'Joe', channelId: 'UCzQUP1qoWDoEbmsQxvdjxgQ'},
-      {name: 'Me', channelId: 'UCBawnZIFCiN_WNvsseGyjYA'},
       {name: 'Nasa', channelId: 'UCLA_DiR1FfKNvjuUpBHmylQ'},
       {name: 'CBS', channelId: 'UC8p1vwvWtl6T73JiExfWs1g'}
     ];
